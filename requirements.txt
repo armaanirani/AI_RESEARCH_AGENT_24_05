@@ -7,3 +7,4 @@ langchain-groq
 langchain-ollama
 python-dotenv
 pydantic
+duckduckgo-search
